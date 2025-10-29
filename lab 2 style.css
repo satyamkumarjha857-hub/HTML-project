@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    background-color: rgb(0, 204, 255);
+    color: aliceblue;
+    text-align: center;
+}
+span{
+    padding-left: 20px;
+    /* color: aliceblue; */
+    
+}
+#about img{
+    width: 200px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    margin-left: 650px;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    color: purple;
+    text-align: center;
+}
+table{
+    width: 40%;
+    height: 100px;
+    border:1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+#figure{
+    background-color: blue;
+    color: aliceblue;
+    
+}
+
+#send{
+    background-color: blue;
+    color: aliceblue;
+}
+button{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+} 
+.print{
+    text-align: center;
+}
+#last{
+    background-color: blue;
+    height: 5px;
+}
+#first{
+     color: aliceblue;
+}
+#project{
+    width: 40%;
+    border: 2px solid blue;
+    margin-left: 450px;
+}
+#second{
+    margin-left: 650px;
+    color: red;
+}
+
+
+
+   
